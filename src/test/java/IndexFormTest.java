@@ -18,7 +18,7 @@ public class IndexFormTest {
 
     @BeforeAll
     public static void setUpBeforeClass(){
-        setSystemPropertyIfUnset("webdriver.chrome.driver", "../webdrivers/chromedriver.exe"); // pfad zur chromedriver.exe
+        setSystemPropertyIfUnset("webdriver.chrome.driver", "C:/Users/Lucian/Technikum/CIN/webdrivers/chromedriver.exe"); // pfad zur chromedriver.exe
     }
 
     @BeforeEach

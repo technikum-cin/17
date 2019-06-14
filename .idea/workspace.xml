@@ -23,19 +23,15 @@
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/sql/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/sql/data.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/at/technikumwien/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/technikumwien/Employee.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/at/technikumwien/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/technikumwien/EmployeeService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/employee.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/employee.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/employee/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/META-INF/sql/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/EmployeeResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/EmployeeResourceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/EmployeeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/IndexModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/Sex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/employee/index.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/employee/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/META-INF/sql/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/employee/WEB-INF/classes/META-INF/sql/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/employee/WEB-INF/classes/at/technikumwien/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/employee/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/employee/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/employee/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/employee/index.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -89,7 +85,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2865">
+            <state relative-caret-position="3298">
               <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
             </state>
           </provider>
@@ -107,7 +103,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -515,7 +511,7 @@
       <workItem from="1559228559000" duration="3814000" />
       <workItem from="1559290639955" duration="9249000" />
       <workItem from="1559825031166" duration="642000" />
-      <workItem from="1560496026554" duration="6473000" />
+      <workItem from="1560496026554" duration="7055000" />
     </task>
     <servers />
   </component>
@@ -552,7 +548,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45247000" />
+    <option name="totallyTimeSpent" value="45829000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -772,7 +768,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2865">
+        <state relative-caret-position="3298">
           <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
         </state>
       </provider>
