@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+<head>
+    <meta charset="utf-8" />
+    <title>Mitarbeiter</title>
+</head>
+<body>
+<!-- Einheitliche ID -->
+<h:form id="form">
+    <h1>Mitarbeiter</h1>
+
+    <p>
+<!--        Im Hitnergrund wird eine JSF-Komponente aus jedem Tag erzeugt -->
+        <h:selectBooleanCheckbox value="#{index.showActive}" id="showactive" />
+        <h:outputLabel for="showactive" value="aktiv" />
+
+        <h:selectBooleanCheckbox value="#{index.showNonActive}" id="shownonactive" />
+        <h:outputLabel for="shownonactive" value="inaktiv" />
+
+        <h:commandButton value="Aktualisieren" id="submit"/>
+    </p>
+
+    <ul>
+        <ui:repeat var="employee" value="#{index.employees}">
+            <li>
+                <h:outputText value="#{employee.description}" />
+            </li>
+        </ui:repeat>
+    </ul>
+</h:form>
+</body>
+</html>
